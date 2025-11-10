@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "description": "Listen to music",
+    "status": "todo",
+    "createdAt": "10/25/2025, 5:51:57 AM",
+    "updatedAt": "10/25/2025, 5:52:21 AM"
+  },
+  {
+    "id": 2,
+    "description": "Wash Dishes",
+    "status": "todo",
+    "createdAt": "10/25/2025, 5:52:09 AM",
+    "updatedAt": "10/25/2025, 5:52:32 AM"
+  }
+]
